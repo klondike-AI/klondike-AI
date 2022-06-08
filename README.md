@@ -1,4 +1,4 @@
-![alt text](https://github.com/klondike-AI/klondike-AI/issues/1#issue-1264847658)
+![logo-klondike-giallo](https://user-images.githubusercontent.com/105933681/172644011-90f5eb2f-f11e-418b-ad56-e4461299a1a0.png)
 
 # About Klondike
 Klondike is the AI Open Source platform for CRM, ERP & eCommerce. 
