@@ -1,3 +1,4 @@
+![alt text](http://url/to/img.png)
 # About Klondike
 Klondike is the AI Open Source platform for CRM, ERP & eCommerce. 
 
